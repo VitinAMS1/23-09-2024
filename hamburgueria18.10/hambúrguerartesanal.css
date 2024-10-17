@@ -1,0 +1,344 @@
+
+
+    body{
+        background-color: rgb(0, 0, 0);
+    }
+
+
+    .link__link__link{
+    
+        padding: 2%; 
+    width: 30%;
+    height: 30%;
+    }
+
+    .link__link__link__menu{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        border: 2px ;
+        width: 124px;
+        border-radius: 20px;
+        font-size: 21px;
+        font-weight:600;
+        padding: 6.1px 0;
+        text-decoration: none;
+    background-color: #000000;
+        font-family: 'Montserrat', sans-serif;
+        color:yellow;
+
+    }
+
+
+    .container__titulo{
+
+    background-color: rgba(255, 255, 0, 0.884);
+    padding-left: 4%;
+    margin: 2.5%;
+    }
+
+
+
+    .img__inicio__menu{
+        height: 65%;
+        width: 65%;
+        position: relative;
+        top: -68px;
+        padding-right:14% ;
+    }
+
+    .container__titulo__h2{
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+        padding-right: 80%;
+        padding-top: 1%;  
+    }
+
+    .para__h1__menu{
+        padding-top:16%;
+    }
+
+    .Artesanal{
+        color: rgb(255, 0, 0);
+    }
+
+    .div__ajuste__menu{
+        position: relative;
+        top: 12%;
+    }
+
+
+    .div__para__subir{
+        position: relative;
+        top: -125px;
+
+    }
+
+
+    .link{    display: flex;
+        justify-content: center;
+        gap: 16px;
+        border: 1px ;
+        width: 100px;
+        border-radius: 18px;
+        font-size: 16px;
+        font-weight:650;
+        padding: 7.1px 0;
+        text-decoration: none;
+    background-color: #000000;
+        font-family: 'Montserrat', sans-serif;
+        color:yellow;
+
+        }
+
+        
+    .link__link{
+        display: flex;
+        padding: 2%; 
+
+        }
+
+
+        
+        .container__img{
+        padding-left: 6%; 
+    
+            }
+            .menu{
+                background-color: #000000;
+                margin-right: 40%;
+                height: 72%;   
+            }
+            
+
+    .MENU__DIV{
+    display: flex;
+    gap: 1%;
+
+
+    }
+
+    .menu__padding{
+        padding-left: 1%;
+        
+
+    }
+
+    .Hamburguer__menu{
+
+        padding-top: 3%;
+    }
+
+    .p__menu{
+        padding-top: 0%;
+    }
+
+
+    .p__menu__img{
+        color: white;
+        padding-left: 15%;
+
+
+    }
+
+    .div__para__img{
+        position: relative;
+        top: -33px;
+        text-align: start;
+
+    }
+
+    .h3__menu{
+        padding-left:6%;
+    }
+
+    .menu__fish{
+        background-color: #000000;
+        margin-right: 28%;
+        height: 81%;  
+        width: 66%;
+
+    }
+
+    .menu__cheese{
+        background-color: #000000;
+        margin-right: 40%;
+        height: 77%;
+        width: 50%;
+    }
+
+    .menu__img__cheese{
+        text-align: start;
+        position: relative;
+        top: -7px;
+        position: relative;
+        right: 20%;
+
+    }   
+
+    .div__para__img__fish{
+        padding-left: 3%;
+
+        position: relative;
+        top: -33px;
+        text-align: start;
+    }
+
+    .div__para__img__cheese{
+        position: relative;
+        top: -33px;
+        text-align: start;
+    }
+
+
+    .titulo__2x{
+    padding-left: 30%;
+    }
+
+    .div__para__bebidas{
+        position: relative;
+        top: -33px;
+        text-align: start;
+        position: relative;
+        right: 3%;
+        padding-top: 2%;
+        position: relative;
+        right: 4%;
+
+    }
+
+    .bebidas{
+        padding-top: 2%;
+    }
+
+    .menu__img__bebida{
+        position: relative;
+        right: 25%;
+    }
+
+    .menu__bebidas{
+        background-color: #000000;
+        margin-right: 47%;
+        height: 89%;
+        width: 40%;   
+    
+    }
+
+
+    .menu__img__bebida__fanta{
+        position: relative;
+        right: 33%;
+    }
+
+    .div__para__bebidas__fanta{
+        position: relative;
+        right: 5%;
+    }
+
+    .strong__Serviços{
+        color: rgb(255, 0, 0);
+    }
+
+    .img__serviços{
+    display: flex;
+    padding-left: 54%;
+    position: relative;
+    top: -350px;
+    }
+
+    .div__para__ padding{
+    text-align: end;
+
+    }
+
+    .strong__menu{
+        color:rgb(255, 0, 0) ;
+        padding-right: 70%;
+    }
+
+    .link__link{
+        text-decoration: none;
+        color:rgba(255, 0, 0, 0.835);
+        border: 1.0 #000000;
+
+        
+    }
+
+    .div__div__contato{
+        display: flex;
+    }
+
+    .img__contato{
+        position: relative;
+        top: -10%;
+        position: relative;
+        right: 109% ;
+    }
+
+    .nav__contato{
+        display: flex;
+    }
+
+    .strong__contato{
+        color: #25D366;
+    }
+
+    .strong__contato__dois{
+        color:#833AB4 ;
+        color: #FD1D1D;
+        color:#FCA134 ;
+        color:#FCAF45 ;
+    }
+
+    .div__para__pedding__serviços{
+        padding-left: 4%;
+        display: flex;
+    }
+
+
+
+
+    .h2__final{
+    padding-left: 30%;
+    position: relative;
+    padding-top: 4%;
+}
+
+    .strong__final{
+        color: rgba(255, 0, 0, 0.835);
+    }
+
+    .img__contato__final{
+        position: relative;
+        top: -30%;
+        
+    }
+    
+    .strong__contato__dois__git{
+        color: #211F1F;
+        color: #FFFFFF;
+    }
+
+    .img__contato__final__git{
+
+        position: relative;
+        left: 10%;
+        top: -30%;
+    }
+
+    .link__link__agradecimento{
+
+        padding-left: 80%;
+        
+    }
+    .link__agradecimento{
+        background-color: rgb(255, 119, 0); /* Vermelho */
+        color: white;
+        border: none;
+        padding: 15px 30px;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.3s;
+    }
